@@ -33,7 +33,7 @@ io.on('connection', (socket) => {
 
 // Define the route
 app.get('/', (req, res) => {
-     res.send('Anshika Ankur Chat for Sarafa Shop and Krishna will help!');
+     res.send('hello');
 });
 
 //start the server
